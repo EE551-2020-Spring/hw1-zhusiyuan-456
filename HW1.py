@@ -10,7 +10,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 	n=m.replace("good","awesome")
 	return x,y,z,length,m,n
 
->>> 
+
 >>> def list():
 	n="Stevens is awesome"
 	p=n.split(", ",17)
@@ -20,7 +20,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 	third_row=[12,17,38]
 	c=('first_row[2]','second_row[2]','third_row[2]')
 	(x,y,z)=c
-	for elm in first_row
-	
-SyntaxError: invalid syntax
->>> 
+	return p,r,c
+
+def 
