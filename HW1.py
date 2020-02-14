@@ -20,6 +20,17 @@ Type "help", "copyright", "credits" or "license()" for more information.
 	third_row=[12,17,38]
 	c=('first_row[2]','second_row[2]','third_row[2]')
 	(x,y,z)=c
-	return p,r,c
+	s = ("stevens") 
+l1 = [] 
+l2 = []
+for c in s:  
+    l1.append(c) 
+    l2.append(ord(c))
 
-def 
+	return p,r,c,o
+
+ def dictionaries():
+ a={"fruit":"apple","quantity":4,"color":"green"}
+f=a["fruit"]
+p={"first_name":"Grace",'last_name':'Hopper','jobs':['scientist','engineer'],'age':85}
+p['jobs'].append("programmer")
