@@ -34,3 +34,4 @@ for c in s:
 f=a["fruit"]
 p={"first_name":"Grace",'last_name':'Hopper','jobs':['scientist','engineer'],'age':85}
 p['jobs'].append("programmer")
+return a,f,p
